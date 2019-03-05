@@ -1,0 +1,25 @@
+{
+  "name": "@frankmerema/resume",
+  "version": "1.0.0",
+  "description": "My very own resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankMerema/resume.git"
+  },
+  "keywords": [
+    "Frank",
+    "Merema",
+    "frankmerema",
+    "resume"
+  ],
+  "author": "Frank Merema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrankMerema/resume/issues"
+  },
+  "homepage": "https://github.com/FrankMerema/resume#readme"
+}
